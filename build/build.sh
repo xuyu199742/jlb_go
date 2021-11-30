@@ -1,0 +1,2 @@
+SET GOOS=linux
+SET GOARCH=amd64

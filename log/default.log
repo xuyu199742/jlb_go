@@ -1,0 +1,377 @@
+2021/11/05 11:18:38	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 11:18:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:01:35	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:01:39	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:02:34	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:02:37	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:03:42	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:03:45	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:04:03	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:04:06	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:04:43	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:04:46	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:05:19	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:05:22	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:07:50	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:07:54	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:08:57	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:08:59	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:09:06	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","staff":null,"retailer":null},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","staff":null,"retailer":null},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","staff":null,"retailer":null},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","staff":null,"retailer":null}]}
+2021/11/05 13:10:44	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:10:49	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:12:19	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:12:23	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:14:16	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:14:19	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:14:24	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null}]}
+2021/11/05 13:22:14	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:22:17	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:24:16	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:24:19	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:25:49	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:25:52	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:25:57	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null}]}
+2021/11/05 13:26:10	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:26:12	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:27:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:27:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:27:56	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":2,"staff_code":"M000006","login_account":"M000006","username":"Iphone","gender":1,"phone":"18888888889","position":2,"staff_type":"兼职导购","is_use":1,"status":1,"create_time":"2021-10-29T16:52:54+08:00","open_id":"o5QJa4_EBer6uV20_7x7nX_attIg","union_id":"oPYap5wuNdiHttFIDaKl7-RzKQXw","nickname":"????ིྀ","avatar":"https://thirdwx.qlogo.cn/mmopen/vi_32/fWY3HCGFo6XfaB8rfAPOJouicic9wpbFC1GaMBEB9WYTtxJxFIEIM7r14RZwCG87hpFTzcgEX7YZA5cknMIySBsQ/132","wx_phone":"18795464002"},"retailer":null}]}
+2021/11/05 13:29:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:29:34	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:29:43	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":2,"shop_name":"中亿高坪区龙门车站店","parent_id":0,"contacts":"范斌","phone":"18980300121","longitude":"","latitude":"","shop_code":"T2746408","province":510000,"city":511300,"district":511303,"address":"中国四川省南充市高坪区龙门街道文华街54","door_photo":"","license_no":"","license_img":"","is_use":1,"reg_time":"2021-10-28T11:25:11+08:00","status":1}},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":1,"shop_name":"2414】妈仔谷湘乡市龙洞镇店","parent_id":0,"contacts":"贺嫘","phone":"15580185268","longitude":"","latitude":"","shop_code":"T2778180","province":430000,"city":430300,"district":430381,"address":"中国湖南省湘潭市湘乡市龙洞镇X036(宁韶公路)","door_photo":"","license_no":"","license_img":"","is_use":1,"reg_time":"2021-10-28T11:25:11+08:00","status":1}},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":4,"shop_name":"佐坝贝因美婴童店","parent_id":0,"contacts":"徐传铭","phone":"18156958289","longitude":"116.114044","latitude":"30.059728","shop_code":"T2694755","province":340000,"city":340800,"district":340826,"address":"佐坝街","door_photo":"https://nfyx.jlbry.cn:8081/storeImg/2020/11/20201126/from_cert_20201126155902047.jpg","license_no":"92340826MA2NCTWA1H","license_img":"","is_use":1,"reg_time":"2021-10-28T11:25:11+08:00","status":1}},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":224398,"shop_name":"测试门店","parent_id":0,"contacts":"逛逛","phone":"13111112222","longitude":"114.397422","latitude":"37.966282","shop_code":"T1919756","province":130000,"city":130100,"district":0,"address":"中国河北省石家庄市鹿泉市碧水街","door_photo":"","license_no":"","license_img":"","is_use":1,"reg_time":"2021-10-28T11:31:29+08:00","status":1}}]}
+2021/11/05 13:31:38	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:31:41	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:38:27	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:38:58	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:42:53	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:42:56	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:43:05	DEBUG	service/home.go:27		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":2,"shop_name":"中亿高坪区龙门车站店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":1,"shop_name":"2414】妈仔谷湘乡市龙洞镇店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":4,"shop_name":"佐坝贝因美婴童店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":224398,"shop_name":"测试门店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}}]}
+2021/11/05 13:43:50	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 13:43:54	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 13:43:58	DEBUG	service/home.go:30		{"project": "", "retailer": [{"id":2,"retailer_id":2,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":2,"shop_name":"中亿高坪区龙门车站店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":5,"retailer_id":1,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":1,"shop_name":"2414】妈仔谷湘乡市龙洞镇店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":8,"retailer_id":4,"staff_id":2,"bind_status":1,"bind_time":"2021-10-22T14:27:49+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":4,"shop_name":"佐坝贝因美婴童店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}},{"id":107397,"retailer_id":224398,"staff_id":2,"bind_status":1,"bind_time":"2021-11-03T14:24:11+08:00","Staff":{"id":0,"staff_code":"","login_account":"","username":"","gender":0,"phone":"","position":0,"staff_type":"","is_use":0,"status":0,"create_time":"0001-01-01T00:00:00Z","open_id":"","union_id":"","nickname":"","avatar":"","wx_phone":""},"Retailer":{"id":224398,"shop_name":"测试门店","parent_id":0,"contacts":"","phone":"","longitude":"","latitude":"","shop_code":"","province":0,"city":0,"district":0,"address":"","door_photo":"","license_no":"","license_img":"","is_use":0,"reg_time":"0001-01-01T00:00:00Z","status":0}}]}
+2021/11/05 14:03:46	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 14:03:51	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 14:04:56	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 14:04:59	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 14:07:27	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 14:07:31	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:35:05	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 16:35:11	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:37:41	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 16:37:46	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:40:32	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 16:41:20	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:43:51	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 16:44:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:52:01	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 16:53:54	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 16:53:58	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:01:05	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:01:09	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:08:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:08:41	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:09:24	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:09:28	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:22:14	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:22:19	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:23:29	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:23:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:25:44	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:25:47	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/05 17:26:20	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/05 17:26:24	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/08 09:59:25	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/08 09:59:25	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "net.Listen error: listen tcp :8888: bind: address already in use"}
+2021/11/08 09:59:32	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/08 09:59:35	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/08 10:00:11	DEBUG	service/home.go:69		{"project": "", "token": "50_aaPstxYKLZOifjsPhQ8-j6CYhGeyunZY8uRCWH3lIcDxZHsL-kOQQXwhaDzCE7nwp09fRqbDne1raEFRZcNApUiS02W860TioGK0iC_OHC_KeaurFnjAew_JCQd98VYK9UAJTe8OpdnSt866UOEjAIAAUK"}
+2021/11/08 10:03:14	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/08 10:03:18	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/08 10:03:24	DEBUG	wxMini/wxMini.go:50		{"project": "", "wx:token": "命中缓存"}
+2021/11/08 10:03:24	DEBUG	service/home.go:69		{"project": "", "token": "50_aaPstxYKLZOifjsPhQ8-j6CYhGeyunZY8uRCWH3lIcDxZHsL-kOQQXwhaDzCE7nwp09fRqbDne1raEFRZcNApUiS02W860TioGK0iC_OHC_KeaurFnjAew_JCQd98VYK9UAJTe8OpdnSt866UOEjAIAAUK"}
+2021/11/08 13:39:11	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/08 13:39:18	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/08 13:39:23	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 11:21:24	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 11:33:18	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 11:33:24	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 11:51:11	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 11:51:15	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 11:58:47	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 11:59:04	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 11:59:50	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 11:59:59	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 12:00:16	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 12:00:19	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 12:12:53	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 12:12:57	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 12:14:24	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 12:14:27	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 12:15:00	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 12:15:03	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 12:18:03	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 12:18:09	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:34:41	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:34:45	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:37:28	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:37:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:37:40	DEBUG	controller/staff.go:18		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":"","phone":0}}}
+2021/11/09 13:39:18	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:39:21	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:39:28	DEBUG	controller/staff.go:18		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":"","phone":0}}}
+2021/11/09 13:41:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:42:02	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:42:22	DEBUG	controller/staff.go:18		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":"","phone":0}}}
+2021/11/09 13:44:44	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:44:48	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:45:04	DEBUG	controller/staff.go:18		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":"","phone":0}}}
+2021/11/09 13:47:14	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:47:18	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:47:34	DEBUG	controller/staff.go:18		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}}}
+2021/11/09 13:48:11	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:48:14	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:52:44	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:52:48	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:53:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:53:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:53:55	DEBUG	controller/staff.go:22		{"project": "", "req": {"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}}}
+2021/11/09 13:55:35	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:55:39	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:56:15	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:56:33	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:56:44	DEBUG	controller/staff.go:22		{"project": "", "req": {"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}}
+2021/11/09 13:57:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 13:57:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 13:58:02	DEBUG	controller/staff.go:22		{"project": "", "req": ""}
+2021/11/09 14:04:10	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:04:14	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:04:41	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:04:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:04:46	DEBUG	controller/home.go:18		{"project": "", "req": {"Params":{"RetailerId":0}}}
+2021/11/09 14:05:05	DEBUG	controller/home.go:18		{"project": "", "req": {"Params":{"RetailerId":0}}}
+2021/11/09 14:05:29	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:05:33	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:05:36	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":2}}}
+2021/11/09 14:06:13	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:06:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:06:39	DEBUG	controller/staff.go:20		{"project": "", "body": "\u0000"}
+2021/11/09 14:06:48	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/09 14:09:47	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:09:51	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:09:58	DEBUG	controller/staff.go:20		{"project": "", "test": {"params":""}}
+2021/11/09 14:09:58	DEBUG	controller/staff.go:22		{"project": "", "req": ""}
+2021/11/09 14:12:10	DEBUG	controller/staff.go:20		{"project": "", "test": {"params":""}}
+2021/11/09 14:12:10	DEBUG	controller/staff.go:22		{"project": "", "req": ""}
+2021/11/09 14:12:36	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:12:40	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:12:52	DEBUG	controller/staff.go:20		{"project": "", "test": {"params":"","sign":""}}
+2021/11/09 14:12:52	DEBUG	controller/staff.go:22		{"project": "", "req": ""}
+2021/11/09 14:13:15	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:13:18	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:14:10	DEBUG	controller/staff.go:24		{"project": "", "test": {"params":"","sign":""}}
+2021/11/09 14:14:10	DEBUG	controller/staff.go:26		{"project": "", "req": ""}
+2021/11/09 14:14:30	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:14:43	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:14:49	DEBUG	controller/staff.go:23		{"project": "", "test": {"params":"","sign":""}}
+2021/11/09 14:15:02	DEBUG	controller/staff.go:23		{"project": "", "test": {"params":"123","sign":""}}
+2021/11/09 14:15:28	DEBUG	controller/staff.go:23		{"project": "", "test": {"params":"{\"123\":123}","sign":""}}
+2021/11/09 14:16:54	DEBUG	controller/staff.go:23		{"project": "", "test": {"params":"\"{\\\"name\\\":\\\"郑1\\\",\\\"sex\\\":\\\"2\\\",\\\"birth\\\":\\\"1990-05-15\\\"}\"","sign":""}}
+2021/11/09 14:17:07	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:17:14	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:17:21	DEBUG	controller/staff.go:23		{"project": "", "test": {"params":"{\"wx_code\":\"033pymGa1XPV4C0NBtJa1kL33p0pymGB\",\"login_account\":\"312\",\"password\":\"1321\",\"encryptedData\":\"BG3EIrM3yZyhb6oIFzr+zWQfu73iiWdfdOYoFDkLnHN6ybQQkK95RsqCcJa9jzCy/Lg9kWirbLMahCKG11eo4+kta/fEFndT1RSRd7aIp1PN2R8WCwJdz2H2uBEZSdfQSiJ2K185W8+LhjxCuRFNYzuxNsuAmhQuHaJkulgIg6KpOc6KIm6XtyQ37G/xldvK6c7vn5jKH3s4AL4Nrd7eMQ==\",\"iv\":\"+lSg5XJc92vZVsuHEANvMA==\"}","sign":"008259131271e157c15d39d1abd69465749b5383"}}
+2021/11/09 14:18:45	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:18:54	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:19:01	DEBUG	controller/staff.go:20		{"project": "", "test": {"params":"{\"wx_code\":\"033pymGa1XPV4C0NBtJa1kL33p0pymGB\",\"login_account\":\"312\",\"password\":\"1321\",\"encryptedData\":\"SdPhDgJ9CUvCQDbmGREzZI0fzyFjfFQtGqHGcamxLW9bMZatnmOW/8T+R/Q7HotXw/5W6MJ0sCJ49ZdE+4ex6duO6XlYDbv+/+YUecPigye73dYVIwQTMj5OJIMCW/tRz3CsAwIznrTgW+yPY6VuKTdh3fugqdLqP+HffZWvGwR4OI1hkpVYSwQGkJgnXqpiYD70JKZ2Bqt1k/QewULLgg==\",\"iv\":\"eOyNgFnvLPVX564w+zd0QQ==\"}","sign":"9348558a80c8eaa448b2c93233ff00c13e17d549"}}
+2021/11/09 14:19:01	DEBUG	controller/staff.go:21		{"project": "", "form": ""}
+2021/11/09 14:26:03	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:26:03	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:37:40	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:37:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "net.Listen error: listen tcp :8888: bind: address already in use"}
+2021/11/09 14:37:44	DEBUG	controller/staff.go:20		{"project": "", "test": {"params":"\"{\\\"name\\\":\\\"郑1\\\",\\\"sex\\\":\\\"2\\\",\\\"birth\\\":\\\"1990-05-15\\\"}\"","sign":""}}
+2021/11/09 14:37:44	DEBUG	controller/staff.go:21		{"project": "", "form": "\"{\\\"name\\\":\\\"郑1\\\",\\\"sex\\\":\\\"2\\\",\\\"birth\\\":\\\"1990-05-15\\\"}\""}
+2021/11/09 14:38:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:38:39	DEBUG	controller/staff.go:23		{"project": "", "req": "\"{\\\"name\\\":\\\"郑1\\\",\\\"sex\\\":\\\"2\\\",\\\"birth\\\":\\\"1990-05-15\\\"}\""}
+2021/11/09 14:38:52	DEBUG	controller/staff.go:23		{"project": "", "req": "999"}
+2021/11/09 14:39:01	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:39:06	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:39:13	DEBUG	controller/staff.go:23		{"project": "", "req": ""}
+2021/11/09 14:39:53	DEBUG	controller/staff.go:23		{"project": "", "req": ""}
+2021/11/09 14:42:06	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:42:11	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:42:14	DEBUG	controller/staff.go:22		{"project": "", "req": {"params":123}}
+2021/11/09 14:42:38	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:42:56	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:43:06	DEBUG	controller/staff.go:22		{"project": "", "req": {"access_token":{"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}},"params":{"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}},"sign":{"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}},"timestamp":{"params":{"login_account":"","password":"","wx_code":"","open_id":"","union_id":"","iv":"","encryptedData":""}}}}
+2021/11/09 14:43:37	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:43:40	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:43:48	DEBUG	controller/staff.go:22		{"project": "", "req": {"access_token":"","params":"{\"wx_code\":\"033pymGa1XPV4C0NBtJa1kL33p0pymGB\",\"login_account\":\"312\",\"password\":\"1321\",\"encryptedData\":\"k/3NlZolubaJAoXDdQgC1VijC+HaqDCEO0ruIPaRr7iU5jiazLOpY+NrNRZtMPDMxQfZHLLdpMqzB76ArJMGZ8G52DSFOFrI3xSdlTmextdUIoJ1e9RqHfqI3D4xOkg0qJV9y6x+bEhlF5h1rzOwUq+DRYaVXr+VGT9eqT/wsah7J0yuveeGB98xb41fm6yoPjiT96i5VkmvTAz0dIUbZA==\",\"iv\":\"Epapcw9s/7sp+HjMBdGlww==\"}","sign":"5555ac600265be9550c6f7e9f270eee559ef3df3","timestamp":"2021-11-09 14:43:48"}}
+2021/11/09 14:50:59	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 14:51:12	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 14:51:20	DEBUG	controller/staff.go:26		{"project": "", "rew": {"login_account":"312","password":"1321","wx_code":"033pymGa1XPV4C0NBtJa1kL33p0pymGB","open_id":"","union_id":"","iv":"KwsWPxCSCorTJSp7w6hLAg==","encryptedData":"Uo2T/z6z2hauQXfWCbcW5OI6tsuDQh1KC+TpS61d93OZizAdOwK7JIIm0IzP4BkfJ9I1wmUIjA9FrazBRGrimcqSOZRhidtJdoz5++JZEWzjkgKBdj8Tiqczk+QJShYj8hGS1oOYgNR1DVhkgcNUUgtYDl+qK5NLUx4+PF9eU6hZrCx1Qule0bQN/MdO/nnaUTp7MnQjurx/uIlIBELyGQ=="}}
+2021/11/09 15:17:33	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/09 15:18:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:19:02	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:22:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:22:46	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:23:00	DEBUG	service/staff.go:39		{"project": "", "wx": {"errcode":0,"errmsg":"","Openid":"o5QJa4_EBer6uV20_7x7nX_attIg","SessionKey":"","UnionId":"oPYap5wuNdiHttFIDaKl7-RzKQXw"}}
+2021/11/09 15:23:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:24:01	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:29:25	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:32:57	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:33:22	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:33:27	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:33:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:33:29	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "net.Listen error: listen tcp :8888: bind: address already in use"}
+2021/11/09 15:33:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:33:34	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:52:26	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:52:26	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "net.Listen error: listen tcp :8888: bind: address already in use"}
+2021/11/09 15:52:34	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:56:27	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:56:31	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 15:56:52	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"063q5ell29xp484dzEnl2yxoRC3q5el7","open_id":"","union_id":"","iv":"7jgc3VBe+Fqzz5hRdj4uQg==","encryptedData":"T2w8JdP2mWeRSQfN9o5KdSWYDHQYg/GsTZ8sSThiZfTvkQSQnZIBbUuNcYLCcS5a2Q3OAjZ8XGMUDs2l1WXCKQGbO953smVR1szFModmo3h4weWtPR5BuictUPZ0EkFskoH6hEO62UXJUDrWTmBA3Ba/H1vqZ51i5cDLgQgTUhioOJHWvErWmYVmLWUgh9CnYjztYUg+W0PatlBHYyjmiQ=="}}
+2021/11/09 15:59:44	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 15:59:47	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 16:00:01	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"053mA30004klKM1csx200u2WSk1mA30Q","open_id":"","union_id":"","iv":"DFfBZof6nlwMWIJryf+wTw==","encryptedData":"z2qmAPkiZaMU/69VzNMbPM+QBVWrDhrA67fmltosQv8FVs5DxYr4/mBlcAcC4dMndb+UpO323GGBc4OwWEAJkqWbxWaig7kuBqwJ/5iKJRQU+hhIixpDcDKp3IRzPPsPAvkj89wuJsvnZhIrar9o+w6BTjlZZ0YmXyzV/eh2gXGNsIwcP1Pzyspumcxu9ZPJWRYPXGGcv/BqEcMVjLcyDw=="}}
+2021/11/09 16:00:01	DEBUG	service/staff.go:43		{"project": "", "user": null}
+2021/11/09 16:00:26	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/09 16:00:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/09 16:00:38	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"013TGB000jdNJM1Std000HMFgD4TGB0b","open_id":"","union_id":"","iv":"3s7VbclqKZsgIcy0Gplcqw==","encryptedData":"eCy6A/G+y7xT/yGH4HLPv8ZPrE6DYb9w5wEN7EnctY/8sIe2NisU9+P7PCEbXZeLaZvNVYWFR7SryGuUhwvtsAgtaxuM+icxlcdMWm7mmhfMvB2bekoLZy399dMVXa7reie0T0UTMy+XqHAnnJVltqR3FczYTzMDNhKqVnrBRvsc/1dPw1CnknFMtB9EpOpygl0FgeLHCxUPAgS7aFYf0g=="}}
+2021/11/09 16:00:38	DEBUG	service/staff.go:43		{"project": "", "user": null}
+2021/11/09 16:00:54	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"093xD3000U5lKM1ZFy0009bNgy3xD30k","open_id":"","union_id":"","iv":"4I0Z157J8MkuUh2JgfTgOA==","encryptedData":"XRinQ/I1wYEyAPUmFD/rePvo819f+z7Lx3ll7ONIWsgtDBRzmZZRCzOtUAsl5wHRhFyVwv3lYzBHHJYQVtE72x90Wg5F3h46VMHkCjPboi9j7BAmKyVNs7kJSw/tNjbBcOBuRH3p5b7xpepfl299KbSXmDUDrawMUVgB1zwSdzLCOWcq723f2mWi3K+3eOVn02wytPjHI9r9GVPAgpS3vQ=="}}
+2021/11/09 16:00:54	DEBUG	service/staff.go:43		{"project": "", "user": null}
+2021/11/09 16:29:08	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"063cHk000X9CKM11F7000iicqC2cHk08","open_id":"","union_id":"","iv":"buJBMbIpjgxSjv+xdeTiEA==","encryptedData":"oGCoah2R0SBWHxKwz7yFyR9s+c+XdsL7cxHJDYq+4sl63wkGSdeHXk52MxNlEMS3OhnR05dUnFO5rjUUysa7OpLesLiQ5qB9sapoOwdPBA/VRPwAdI88JRvM5dfQ0YEosfqyEHp18SzsFSkeB9byWYsP7+H0VJqwKzUufh1asECQuMj0iMy5ml97XvbPBmK+1uOJGbBOB+Btg5sQtD631g=="}}
+2021/11/10 14:54:49	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/10 14:54:49	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/10 14:55:06	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 13:45:23	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 13:45:39	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/11 13:46:05	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"013dgsll2Pmu6849tcnl2HmkV53dgslc","open_id":"","union_id":"","iv":"52plVHSHLh5pPz/XUxn4tQ==","encryptedData":"2KMQJIXje/qMsxmvJdadtGMSEXJtHtNbaCmvV9+sDhnZWco/K6OaL8qsDwOCdt1KMrDVP5dnvfdBYxh+LvFFA14weAmRDGaKHRFPNPmqs/u3zDcK02sbaMYu1aR+D5YhtrXZv7YQ1vWxfVTeZDWX9858kbB0SigNTH6ETT0Pvmr7KoVbM/J9cRSUPWDaf25WHWRTR+s3Nth/cOMbtfZE4A=="}}
+2021/11/11 13:57:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 13:57:44	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 13:58:07	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"023n3Kll2Jvy484II2nl2NBvUO2n3KlZ","open_id":"","union_id":"","iv":"NfJEysEDm+TvPOxsbxutGw==","encryptedData":"kSmjuwasAPXox+pKEPWtVFFMpixvnHDxCvlRGwtxQUUohcAs69huhgWKYwMsoQxdp2IT+fDtyU7cyi+ko9c9j80oxHQJp4uoPuyooQmJDsCTWJLOL29Bel5r/0mbffLx5nb49OFrGTALcyxXEOBF9iCBkXz6SWH3FxZnYIGeVACu6zC7f3aWltnVASj42nldsBBLQSHeKNwYBgz32uVuOA=="}}
+2021/11/11 13:58:07	DEBUG	service/staff.go:34		{"project": "", "session": {"errcode":0,"errmsg":"","Openid":"o5QJa4_EBer6uV20_7x7nX_attIg","SessionKey":"","UnionId":"oPYap5wuNdiHttFIDaKl7-RzKQXw"}}
+2021/11/11 13:58:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 13:59:03	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 13:59:52	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"003kaKll2HLy484iJxml2sbHCb3kaKlJ","open_id":"","union_id":"","iv":"OF6sXo78Bx3YJN3mKBQL9A==","encryptedData":"LDFTCPzP940ZuC80f5EkMmxmxaKkXD7eWUVRt1x8n6gQnjPYHygKOv+kugzqj6ZeQixQxDR1nVGS26e0U/gYUNvdpp9GifcuwlmoVLvrb/Y3kVK1lm3w+FEbvhb3DgfQMM6YpOuSs9+LSIdwhdugMUZjnBm+eP2nF5JfANJhngqZ7ciqYdyLo2WP+lcq2/VwThYQH0TJx/ncotUQdYNI0g=="}}
+2021/11/11 13:59:52	DEBUG	service/staff.go:34		{"project": "", "session": {"errcode":0,"errmsg":"","openid":"o5QJa4_EBer6uV20_7x7nX_attIg","session_key":"ijcepue+lSv3NIrrQonMCA==","union_id":""}}
+2021/11/11 14:00:10	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"023m5cll222d684TFCnl2yam2Q2m5cl9","open_id":"","union_id":"","iv":"02ATPieQjs5qGjV//9qWFQ==","encryptedData":"NGaJY2VG/yHD+eev0BTo5BFQh9hRX4Xen1dEEeJ173FklWf7SqHYSeIIEO8NqXPmUoLsprZ/IMi6zVAezq89PLmYIY2W9nUGi6PIRyk6JJGQ8Wze1vlXuY5djHcMvrprBJufRsXYXJotJ2D6COGrEldMnYfjxYcRT4xwyoJE9JP4O/MQzIK4OVy1pIxl4Tn+XCPPNdsDB44XuYDUtLCMLw=="}}
+2021/11/11 14:00:10	DEBUG	service/staff.go:34		{"project": "", "session": {"errcode":0,"errmsg":"","openid":"o5QJa4_EBer6uV20_7x7nX_attIg","session_key":"2YlEJ5U5Pg6Nedu7F9dcXw==","union_id":""}}
+2021/11/11 14:02:25	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:02:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:02:53	DEBUG	service/staff.go:21		{"project": "", "req": {"login_account":"M000006","password":"123","wx_code":"063ccVkl27YV584D75ml2qSlrz3ccVkj","open_id":"","union_id":"","iv":"lImfnBWmSgb2d3aMcZaR5w==","encryptedData":"OWdDvnW4h9xXOG5Xmt5v7lrptNak0zx7ElZa0XFcQZ8rcFyALgDCUIM16aFqL+1d5hr/cuK35CmB22vDQja5ljCukKFughFyN5U0WbkRaNCdPrcCsXRqGgtc2xmyKWHH4FpCV5Bos4BZb5MQSBxTqjAhwkY3jYF1E0Of1TazW82sxBASYD+LHkLVBRwSEzUaocAYOi1eptTZHQbqjwSBJA=="}}
+2021/11/11 14:02:54	DEBUG	service/staff.go:34		{"project": "", "session": {"errcode":0,"errmsg":"","openid":"o5QJa4_EBer6uV20_7x7nX_attIg","session_key":"iETL/9dIFT+JQEkEoFDyiA==","union_id":""}}
+2021/11/11 14:02:54	DEBUG	service/staff.go:43		{"project": "", "user": "{\"phoneNumber\":\"18795464002\",\"purePhoneNumber\":\"18795464002\",\"countryCode\":\"86\",\"watermark\":{\"timestamp\":1636610572,\"appid\":\"wx96f3a5b0bff2bff9\"}}"}
+2021/11/11 14:12:51	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:12:55	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:15:24	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:15:27	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:26:39	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:26:42	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:33:47	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:33:51	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:34:33	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/11 14:37:03	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:37:06	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:39:18	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:39:22	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:46:34	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:46:37	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:48:28	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 14:48:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 14:48:45	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/11 16:40:29	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/11 16:40:44	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/11 22:30:37	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/11 22:30:45	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/11 22:30:52	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:15:59	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:16:10	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:17:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:17:35	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:17:46	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:19:03	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:19:06	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:19:12	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:25:24	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:25:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:25:36	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:26:35	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:26:38	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:26:46	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:27:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:28:02	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:28:09	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:29:25	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:29:29	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:29:37	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:31:11	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:31:15	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:31:22	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 09:33:34	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 09:33:40	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 09:33:46	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 11:27:23	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 11:47:13	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 11:47:19	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 11:47:25	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 11:47:32	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 14:13:52	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 14:16:13	DEBUG	controller/home.go:18		{"project": "", "req": {"params":{"retailer_id":0}}}
+2021/11/12 15:11:13	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 15:11:19	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 15:11:28	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/12 16:59:49	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/12 16:59:56	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:07:14	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:10:30	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:10:35	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:13:00	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:13:12	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:14:33	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:14:41	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:15:40	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:15:44	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:16:56	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:17:03	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:18:29	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:18:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:18:37	DEBUG	controller/notice.go:52		{"project": "", "notice": {"params":{"notice_id":0}}}
+2021/11/15 20:19:20	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:19:25	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:20:36	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:20:40	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:26:16	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:26:22	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:48:05	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:48:08	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/15 20:49:24	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/15 20:49:31	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 10:50:28	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 10:50:30	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 10:50:46	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 17:46:44	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:13:28	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:13:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:14:26	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:14:31	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:14:58	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:15:03	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:16:43	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:16:47	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:17:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:17:36	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:17:45	DEBUG	controller/user.go:22		{"project": "", "req": {"params":{"page":1,"retailer_id":"","stage":0,"begin_time":"","end_time":""}}}
+2021/11/16 22:18:31	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:18:35	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/16 22:19:00	DEBUG	controller/user.go:22		{"project": "", "req": {"params":{"page":1,"retailer_id":0,"stage":"","begin_time":"","end_time":""}}}
+2021/11/16 22:20:04	DEBUG	controller/user.go:22		{"project": "", "req": {"params":{"page":1,"retailer_id":0,"stage":"","begin_time":"","end_time":""}}}
+2021/11/16 22:21:00	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/16 22:21:07	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/17 13:31:20	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/17 13:31:20	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "net.Listen error: listen tcp :8888: bind: address already in use"}
+2021/11/17 13:31:27	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/17 13:31:32	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/17 13:32:33	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}
+2021/11/17 13:32:37	INFO	boot/redis.go:21		{"project": "", "redis connect ping response:": "PONG"}
+2021/11/18 09:12:08	ERROR	boot/server.go:38		{"project": "", "ListenAndServe": "accept tcp [::]:8888: use of closed network connection"}

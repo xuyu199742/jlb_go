@@ -1,0 +1,42 @@
+jwt:
+  buffer-time: 86400
+  expires-time: 604800
+  signing-key: 2c988ea8-f6fc-49a9-8666-0dd95407c717
+local:
+  path: uploads/file
+  img-url: https://static.51dh.com.cn
+mysql:
+  path: kaikaige.mysql.rds.aliyuncs.com
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: junlebao
+  username: junlebao
+  password: "9dYMTOGYiUqey6Lw"
+  max-idle-conns: 0
+  max-open-conns: 0
+  log-mode: ""
+  log-zap: true
+redis:
+  db: 0
+  addr: 127.0.0.1:6379
+  password: ""
+system:
+  env: public
+  addr: 8888
+  db-type: mysql
+  oss-type: local
+  use-multipoint: false
+zap:
+  level: info
+  format: console
+  prefix: '[core]'
+  director: log
+  link-name: latest_log
+  showLine: true
+  encode-level: LowercaseColorLevelEncoder
+  stacktrace-key: stacktrace
+  log-in-console: true
+wx:
+  appid: wx776dea1600ccd780
+  secret: 732ee68cad1ed2f8c60ba5a6a2b5a75d
+  sfa-appid: wx96f3a5b0bff2bff9
+  sfa-secret: 94d14f7569882bf8c2093b09563e00b8
